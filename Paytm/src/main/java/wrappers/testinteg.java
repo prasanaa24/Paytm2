@@ -5,6 +5,7 @@ public class testinteg {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 //test
+		System.out.println("test");
 	}
 
 }
